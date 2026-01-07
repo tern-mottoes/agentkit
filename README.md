@@ -49,6 +49,13 @@ AgentKit is [Coinbase Developer Platform's](https://docs.cdp.coinbase.com) toolk
   </a>
 </div>
 
+## Local Development Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tern-mottoes/agentkit.git
+   cd agentkit
+
 ## 🚀 Quickstart
 
 ### Node.js
